@@ -9,7 +9,6 @@
         "landofcoder/module-seo-hreflang": "1.0.0",
         "landofcoder/module-url-regeneration": "1.0.0",
         "landofcoder/module-url-rewrite": "1.0.0",
-        "landofcoder/module-url-rewrite-mass-actions": "1.0.0",
         "maxserv/magento-module-yoastseo": "1.0.0"
     },
     "type": "magento2-module",
