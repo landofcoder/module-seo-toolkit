@@ -15,7 +15,7 @@ The extension contains many advanced features that will assist and make your sto
 - Url Rewrite Mass Actions
 
 # Download Module
-[Download Seo Toolkit](https://landofcoder.com/magento-2-seo-extension.html)
+[Download Seo Toolkit Extension](https://landofcoder.com/magento-2-seo-extension.html)
 
 # Completed Extensions
 
@@ -29,7 +29,7 @@ The extension contains many advanced features that will assist and make your sto
 
 # Todo
 
-1. Make module: Meta Tags Templates
+## 1. Make module: Meta Tags Templates
 
 - Add meta info, keywords and H1 tag for products & categories
 - Use flexible templates with different variables
@@ -38,7 +38,7 @@ The extension contains many advanced features that will assist and make your sto
 - Set noindex or nofollow for site pages
 - Utilize emojis in meta information
 
-2. Make module: Automatic Cross Linking
+## 2. Make module: Automatic Cross Linking
 
 - Build internal and external links
 - Link to any product, category, or CMS page
@@ -46,7 +46,7 @@ The extension contains many advanced features that will assist and make your sto
 - Replace keywords with links
 - Limit the number of links per page
 
-3. Make module: Unique Product URL
+## 3. Make module: Unique Product URL
 
 - Utilize a short path or a long one in a product URL
 - Select the pass by a sum of characters or URL depth level
