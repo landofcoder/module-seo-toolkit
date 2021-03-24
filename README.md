@@ -25,7 +25,7 @@ The extension contains many advanced features that will assist and make your sto
 - [SeoPackage Extension](https://github.com/landofcoder/module-seo-package)
 - [UrlRegeneration Extension](https://github.com/landofcoder/module-url-regeneration)
 - [UrlRewrite Extension](https://github.com/landofcoder/module-url-rewrite)
-- Sitemap [Sitemap Extension](https://github.com/landofcoder/module-sitemap-magento2)
+- [Sitemap Extension](https://github.com/landofcoder/module-sitemap-magento2)
 
 # Todo
 
