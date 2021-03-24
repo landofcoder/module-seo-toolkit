@@ -38,6 +38,8 @@ The extension contains many advanced features that will assist and make your sto
 - Set noindex or nofollow for site pages
 - Utilize emojis in meta information
 
+[Meta Tags Templates](https://github.com/landofcoder/module-meta-tags-template)
+
 ## 2. Make module: Automatic Cross Linking
 
 - Build internal and external links
@@ -46,6 +48,8 @@ The extension contains many advanced features that will assist and make your sto
 - Replace keywords with links
 - Limit the number of links per page
 
+[Automatic Cross Linking](https://github.com/landofcoder/module-auto-cross-link)
+
 ## 3. Make module: Unique Product URL
 
 - Utilize a short path or a long one in a product URL
@@ -53,3 +57,5 @@ The extension contains many advanced features that will assist and make your sto
 - Redirect secondary URLs to the main one automatically
 - Ignore certain categories in a product’s link
 - Customize breadcrumbs according to URL or category
+
+[Unique Product URL](https://github.com/landofcoder/module-unique-product-url)
