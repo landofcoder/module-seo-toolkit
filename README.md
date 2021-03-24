@@ -13,3 +13,6 @@ The extension contains many advanced features that will assist and make your sto
 - Url Regeneration
 - Url Rewrite
 - Url Rewrite Mass Actions
+
+# Download Module
+[Download Seo Toolkit](https://landofcoder.com/magento-2-seo-extension.html)

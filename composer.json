@@ -1,0 +1,26 @@
+{
+    "name": "landofcoder/module-seo-tool-kit",
+    "description": "SEO Tool Kit extension for Magento 2",
+    "require": {
+        "landofcoder/module-seopackage": "1.0.0",
+        "landofcoder/module-sitemap": "1.0.0",
+        "landofcoder/module-seo-canonical": "1.0.0",
+        "landofcoder/module-seo-hreflang": "1.0.0",
+        "landofcoder/module-url-regeneration": "1.0.0",
+        "landofcoder/module-url-rewrite": "1.0.0",
+        "landofcoder/module-url-rewrite-mass-actions": "1.0.0",
+        "maxserv/magento-module-yoastseo": "1.0.0"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "Lof\\SeoToolkit\\": ""
+        }
+    }
+}
