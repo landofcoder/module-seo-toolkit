@@ -14,10 +14,10 @@ The extension contains many advanced features that will assist and make your sto
 - Url Rewrite
 - Url Rewrite Mass Actions
 
-# Download Module
+# Download Extension
 [Download Seo Toolkit Extension](https://landofcoder.com/magento-2-seo-extension.html)
 
-# Completed Extensions
+# Completed Features
 
 - [Opengraph Extension](https://github.com/landofcoder/module-opengraph)
 - [SeoCanonical Extension](https://github.com/landofcoder/module-seo-canonical)
