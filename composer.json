@@ -4,6 +4,7 @@
     "require": {
         "landofcoder/module-seopackage": "1.0.0",
         "landofcoder/module-sitemap": "1.0.0",
+        "landofcoder/module-opengraph": "1.0.0",
         "landofcoder/module-seo-canonical": "1.0.0",
         "landofcoder/module-seo-hreflang": "1.0.0",
         "landofcoder/module-url-regeneration": "1.0.0",
